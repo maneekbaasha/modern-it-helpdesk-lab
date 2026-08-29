@@ -66,9 +66,27 @@ The labs use the following workflow:
 7. Validate the result
 8. Document the resolution
 
+### IT-2 — New employee onboarding with Microsoft Entra ID
+
+Scenario:
+
+HR requests the onboarding of a new Finance employee.
+
+Topics covered:
+
+- Microsoft Entra ID
+- Identity and Access Management
+- user provisioning
+- security groups
+- Least Privilege
+- RBAC
+- internal and B2B identities
+- administrative account separation
+- MFA
+- Microsoft 365 licensing concepts
+
 ## Planned labs
 
-- IT-2 — New employee onboarding with Microsoft Entra ID
 - IT-3 — Non-compliant Windows device with Microsoft Intune
 - IT-4 — Software deployment through Intune
 - IT-5 — macOS device management and Apple Business Manager concepts
