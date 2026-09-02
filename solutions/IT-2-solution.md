@@ -253,14 +253,22 @@ The device state was checked with:
 
 ```powershell
 dsregcmd /status
+```
 
+Before the successful join, the important values were:
+
+```text
 AzureAdJoined : NO
 EnterpriseJoined : NO
 DomainJoined : NO
 WorkplaceJoined : NO
+```
 
-Meaning: Windows was not currently joined or workplace-registered through the tested account path.
-Problem solved: reduces the likelihood that an active stale Entra join was causing the failure.
+**Meaning:** Windows was not currently joined or workplace-registered through the tested account path.
+
+**Problem solved:** reduces the likelihood that an active stale Entra join was causing the failure.
+
+---
 
 ## 15. Check Windows MDM event logs
 
