@@ -85,9 +85,27 @@ Topics covered:
 - MFA
 - Microsoft 365 licensing concepts
 
+### IT-3 — Non-compliant Windows device with Microsoft Intune
+
+Scenario:
+
+A managed Windows 11 corporate device becomes non-compliant after Microsoft Defender Firewall is intentionally disabled on the active network profile.
+
+Topics covered:
+
+- Microsoft Intune compliance policies
+- Windows 11 endpoint management
+- Microsoft Defender Firewall
+- device compliance monitoring
+- pilot device groups
+- policy assignment
+- MDM synchronization
+- security drift detection
+- Intune reporting
+- remediation and validation
+
 ## Planned labs
 
-- IT-3 — Non-compliant Windows device with Microsoft Intune
 - IT-4 — Software deployment through Intune
 - IT-5 — macOS device management and Apple Business Manager concepts
 - IT-6 — Lost corporate device incident
