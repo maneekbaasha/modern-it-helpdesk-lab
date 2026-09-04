@@ -104,9 +104,29 @@ Topics covered:
 - Intune reporting
 - remediation and validation
 
+### IT-4 — Software deployment through Microsoft Intune
+
+Scenario:
+
+A managed Windows device receives a centrally deployed application through Intune. An initial VLC deployment fails during applicability/detection evaluation, leading to log analysis and a successful deployment test using Microsoft PowerToys.
+
+Topics covered:
+
+- Microsoft Intune application management
+- Microsoft Store apps
+- Win32 application deployment
+- required assignments
+- pilot device groups
+- Intune Management Extension
+- AppWorkload.log analysis
+- deployment troubleshooting
+- application applicability
+- ARM64 compatibility considerations
+- endpoint validation
+- Intune reporting
+
 ## Planned labs
 
-- IT-4 — Software deployment through Intune
 - IT-5 — macOS device management and Apple Business Manager concepts
 - IT-6 — Lost corporate device incident
 
