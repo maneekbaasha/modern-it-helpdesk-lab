@@ -437,17 +437,18 @@ Each stage should be validated independently.
 
 ---
 
-## Current validation status
+## Final validation status
 
 PowerToys is installed on `NOVATECH-W11-01`.
 
-Intune portal reporting is still pending at the time of documentation.
+The Microsoft Intune portal also reports the deployment as successfully installed.
 
-Once the portal reports:
+This validates the deployment from both perspectives:
 
-`Installed`
+- local endpoint installation
+- centralized Intune reporting
 
-the deployment can be considered fully validated from both the endpoint and management-console perspectives.
+The application deployment workflow is therefore fully validated.
 
 ---
 
