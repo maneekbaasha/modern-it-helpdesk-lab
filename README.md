@@ -125,9 +125,30 @@ Topics covered:
 - endpoint validation
 - Intune reporting
 
+### IT-5 — macOS device management with Microsoft Intune
+
+Scenario:
+
+A macOS endpoint is manually enrolled through Microsoft Company Portal, an Apple MDM Push certificate is configured, and a security baseline is deployed and validated through Intune.
+
+Topics covered:
+
+- macOS virtualization
+- Microsoft Intune
+- Microsoft Company Portal
+- Apple MDM Push certificates
+- APNs
+- macOS enrollment
+- Management Profiles
+- device ownership
+- macOS configuration profiles
+- pilot device groups
+- Settings Catalog
+- policy validation
+- Apple Business Manager concepts
+- Automated Device Enrollment concepts
 ## Planned labs
 
-- IT-5 — macOS device management and Apple Business Manager concepts
 - IT-6 — Lost corporate device incident
 
 ## Disclaimer
