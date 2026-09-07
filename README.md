@@ -147,9 +147,25 @@ Topics covered:
 - policy validation
 - Apple Business Manager concepts
 - Automated Device Enrollment concepts
-## Planned labs
 
-- IT-6 — Lost corporate device incident
+### IT-6 — Lost corporate device incident
+
+Scenario:
+
+A corporate Windows device is reported lost. The endpoint is assessed in Microsoft Intune, remote actions are compared, and a full wipe is selected as the appropriate incident response without executing the destructive command in the lab.
+
+Topics covered:
+
+- Microsoft Intune remote actions
+- endpoint incident response
+- lost and stolen device handling
+- Retire vs Wipe vs Delete
+- corporate device ownership
+- risk assessment
+- device check-in
+- remote wipe options
+- destructive-action safety
+- incident documentation
 
 ## Disclaimer
 
